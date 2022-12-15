@@ -9,7 +9,7 @@ tags:
 ---
 
 <p align="center">
-here I show everything I learned and am learning:
+Everything I learned and am learning
 </p>
 
 ---

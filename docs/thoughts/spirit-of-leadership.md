@@ -5,13 +5,12 @@ tags:
   - leadership
 ---
 
-If you want be a leader, you must act like a leader.
+If you want be a leader, you must act as a leader.
 
 Leadership is:
 
 - Know to speak in public
 - Know answer what the team needs to hear
-- Make people like you
 - Be active
 - Be friendly and understanding
 - Prove to be on top of the subject

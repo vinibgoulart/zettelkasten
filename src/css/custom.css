@@ -7,6 +7,7 @@
   --ifm-color-primary-light: #e03e3e;
   --ifm-color-primary-lighter: #e94747;
   --ifm-color-primary-lightest: #f75555;
+  --ifm-color-info-dark: rgb(214, 88, 88);
   --ifm-code-font-size: 95%;
 }
 
@@ -18,7 +19,7 @@ html[data-theme='dark'] {
   --ifm-color-primary-light: #e03e3e;
   --ifm-color-primary-lighter: #e94747;
   --ifm-color-primary-lightest: #f75555;
-  --ifm-alert-border-color: rgb(214, 88, 88) !important;
+  --ifm-color-info-dark: rgb(214, 88, 88);
 }
 
 .hero__title,

@@ -7,7 +7,7 @@ tags:
 ---
 
 <p align="center">
-mentorship articles:
+My mentorship articles
 </p>
 
 ---
