@@ -8,7 +8,7 @@ tags:
 ---
 
 <p align="center">
-    <img width="150" src="../img/me.png" />
+  <img width="150" src="../img/me.png" />
 </p>
 
 Hi, my name is Vinicius Goulart a.k.a [blazu](https://twitter.com/vinibgoulart). I'm Software Engineer and seek to update myself with market technologies, and I am always having fun with some tech.
@@ -27,17 +27,23 @@ I currently learning `GraphQL` data query language using `Relay` framework.
 
 ### Currently
 
-<details open>
-    <summary>
-        <b>Fullstack Software Enginner - Highsoft Sistemas</b>
-    </summary>
-    <b>Link</b>: <a href="https://highsoftsistemas.com.br/" target="_blank">https://highsoftsistemas.com.br/</a>
-    <br/>
-    <b>Time</b>: fev 2022 - the moment - 11 months
-    <br/>
-    <b>Description</b>: Develop an api in laravel for an ERP integration with e-commerces. Develop a front-end ERP integration made in next13 using SSR, SSG, data cache and layouts with a focus on customers and performance as well as maintaining quality code with scalability. Develop a documentation using docusaurus.
-    <br/>
-    <b>Competencies</b>: Next.js · React.js · Laravel · PHP · MySQL · TypeScript · Docusaurus(MDX)
+<details open style={{backgroundColor: "rgba(214, 88, 88, 0.5)", borderColor: "rgb(214, 88, 88)"}}>
+  <summary>
+    <b>Fullstack Software Enginner - Highsoft Sistemas</b>
+  </summary>
+  <b>Link</b>: <a href="https://highsoftsistemas.com.br/" target="_blank">
+    https://highsoftsistemas.com.br/
+  </a>
+  <br />
+  <b>Time</b>: fev 2022 - the moment - 11 months
+  <br />
+  <b>Description</b>: Develop an api in laravel for an ERP integration with e-commerces.
+  Develop a front-end ERP integration made in next13 using SSR, SSG, data cache and
+  layouts with a focus on customers and performance as well as maintaining quality
+  code with scalability. Develop a documentation using docusaurus.
+  <br />
+  <b>Competencies</b>: Next.js · React.js · Laravel · PHP · MySQL · TypeScript ·
+  Docusaurus(MDX)
 </details>
 
 <!-- ### Previously -->
