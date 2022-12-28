@@ -1,8 +1,6 @@
 ---
 id: do-what-you-dont-know
 title: Do what you don't know
-tags:
-  - leadership
 ---
 
 Do what you don't know, it's the best form to learn something. If you only do what you know, you will not be evolving. I don't know english, but I try to write in english.

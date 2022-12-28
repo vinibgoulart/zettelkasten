@@ -1,8 +1,6 @@
 ---
 id: spirit-of-leadership
 title: Spirit of Leadership
-tags:
-  - leadership
 ---
 
 If you want be a leader, you must act as a leader.
