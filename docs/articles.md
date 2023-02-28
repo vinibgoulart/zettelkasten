@@ -11,6 +11,7 @@ tags:
 
 - [**Dev.to**](https://dev.to/vinibgoulart): https://dev.to/vinibgoulart
 - [**Medium**](https://medium.com/@viblaziusgoulart): https://medium.com/@viblaziusgoulart
+- [**Subsctack**](https://blazu.substack.com): https://blazu.substack.com
 - [**Thoughts**](category/thoughts)
 
 ### Learnship
