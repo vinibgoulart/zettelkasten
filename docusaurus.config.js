@@ -17,7 +17,7 @@ module.exports = {
   },
   title: 'blazu',
   tagline: `Thoughts and Blog`,
-  url: 'https://vinibgoulart.github.io',
+  url: 'https://blazu.dev',
   baseUrl: '/zettelkasten',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icons/favicon.ico',
