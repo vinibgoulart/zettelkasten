@@ -15,5 +15,5 @@ When someone in the short term sees someone in the long term, they believe this 
 
 Then everything that this person has built starts to come and it is unstoppable, more and more scale and more and more rewards are achieved in a much easier way.
 
-![short-term-char](../../static/img/shortxlong-term/short-term.png)
-![long-term-char](../../static/img/shortxlong-term/long-term.png)
+![short-term-char](../static/img/shortxlong-term/short-term.png)
+![long-term-char](../static/img/shortxlong-term/long-term.png)
