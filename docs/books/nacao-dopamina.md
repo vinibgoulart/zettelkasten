@@ -13,20 +13,19 @@ we are cacti in a tropical forest, we transform the elements of a simple world i
 
 dopamine detox has 8 steps that can be remembered using the first letter of DOPAMINE word:
 
-D - Data
-O - Objective
-P - Problems
-A - Abstinence
-M - Mindfulness
-I - Insight
-N - New steps
-E - Experiment
+- D - Data - is information about your addiction: what it is, when it occurs, simple data.
+- O - Objective - is the goal of using the addiction, why do you use it? Fun? Pain? Depression? Anxiety? Anger? Fear? Social phobia?
+- P - Problems - are the problems it causes. Health? Relationships?
+- A - Abstinence - is a strategy to try to rebalance brain homeostasis. Dopamine detoxification.
+- M - Mindfulness - is the act of diving deep into your brain, thinking about everything and tolerating boredom.
+- I - Insight - is your reflection on what you have freed yourself from, how it has impacted your life, and how you realized it was harmful.
+- N - New steps - are the next steps after freeing yourself, new hobbies, how to fill that "void".
+- E - Experiment - is how you will deal with all of this after some time.
 
-data is information about your addiction: what it is, when it occurs, simple data.
-objective is the goal of using the addiction, why do you use it? Fun? Pain? Depression? Anxiety? Anger? Fear? Social phobia?
-problems are the problems it causes. Health? Relationships?
-abstinence is a strategy to try to rebalance brain homeostasis. Dopamine detoxification.
-mindfulness is the act of diving deep into your brain, thinking about everything and tolerating boredom.
-insight is your reflection on what you have freed yourself from, how it has impacted your life, and how you realized it was harmful.
-new steps are the next steps after freeing yourself, new hobbies, how to fill that "void".
-experiment is how you will deal with all of this after some time.
+self-commitment involves creating obstacles between you and your addiction. There are three types of self-commitment: material, temporal, and meaningful.
+
+material self-commitment involves avoiding addiction by using material things, such as locking your smartphone in a safe while working, removing all beer from your home, using only cash instead of cell phones, credit cards, etc.
+
+temporal self-commitment involves setting limits on your addictions, such as using drugs only on weekends, drinking only on your birthday, using some instrument to measure time, etc.
+
+meaningful self-commitment involves avoiding triggers related to your addiction, such as not seeing naked people, avoiding going to bars, etc.
