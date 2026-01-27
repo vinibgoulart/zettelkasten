@@ -29,3 +29,5 @@ material self-commitment involves avoiding addiction by using material things, s
 temporal self-commitment involves setting limits on your addictions, such as using drugs only on weekends, drinking only on your birthday, using some instrument to measure time, etc.
 
 meaningful self-commitment involves avoiding triggers related to your addiction, such as not seeing naked people, avoiding going to bars, etc.
+
+is accepting suffering better than using excessive medication? Medications are as addictive as drugs. Poverty and drug dependence are proportional; studies show that poorer places tend to have more addicts and people with drug problems.
